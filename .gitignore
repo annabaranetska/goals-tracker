@@ -1,2 +1,4 @@
 #idea folder
 .idea/
+#target folder
+*/target/*

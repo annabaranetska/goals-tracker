@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class WebDiaryApplication {
+public class GoalsTracker {
     public static void main(String [] args){
-        SpringApplication.run(WebDiaryApplication.class, args);
+        SpringApplication.run(GoalsTracker.class, args);
 
     }
 }

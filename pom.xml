@@ -45,7 +45,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
                     <!-- The main class to start by executing "java -jar" -->
-                    <mainClass>anna.demo.com.arc.main.java.app.WebDiaryApplication</mainClass>
+                    <mainClass>anna.demo.com.arc.main.java.app.GoalsTracker</mainClass>
                 </configuration>
             </plugin>
         </plugins>
